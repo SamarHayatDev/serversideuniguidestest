@@ -1,7 +1,9 @@
 export default function Home() {
   return (
     <>
-      <h1>Testing h1 - SEO Optimization</h1>
+      <h1 className="text-primary bg-secondary">
+        Testing h1 - SEO Optimization
+      </h1>
       <p>
         Welcome to our test page for SEO optimization. This page contains
         various elements that contribute to search engine ranking.
