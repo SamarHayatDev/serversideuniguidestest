@@ -30,14 +30,14 @@ export default function Home() {
 
       <h5>Testing h5 - Client Testimonials</h5>
       <blockquote>
-        "This company transformed our online presence! Highly recommended for
-        SEO and web development."
+        &quot;This company transformed our online presence! Highly recommended
+        for SEO and web development.&quot;
       </blockquote>
 
       <h6>Testing h6 - Contact Us</h6>
       <p>
-        Reach out to us for a free SEO consultation and boost your website's
-        visibility today!
+        Reach out to us for a free SEO consultation and boost your
+        website&apos;s visibility today!
       </p>
     </>
   );
